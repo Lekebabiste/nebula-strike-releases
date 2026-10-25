@@ -17,6 +17,7 @@ Chaque archive contient le jeu, le **serveur dédié** (`nebula_server`) et le d
 
 Survie (vagues, boss), Combat (chacun pour soi ou en équipes), Capture du drapeau, Course sur circuit,
 Capture de territoire. Bots, armes aléatoires, 10 armes spéciales, dash, drone, trous de ver.
+Vaisseau personnalisable (pseudo, couleur, forme) ; jeu en français, anglais, japonais, russe et arabe.
 
 ## Jouer en ligne
 
